@@ -1,0 +1,19 @@
+{
+  "name": "city-state-country-please",
+  "version": "1.0.0",
+  "description": "Why the hell isn't there a library for being able to pass (cities, states, and countries) info through a dropdown. That's what I was wondering and then I made this!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrayg/city-state-country-please.git"
+  },
+  "author": "Asray Gopa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrayg/city-state-country-please/issues"
+  },
+  "homepage": "https://github.com/asrayg/city-state-country-please#readme"
+}
